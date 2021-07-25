@@ -11,4 +11,4 @@ I'm Prashant from India, and currently doing my graduation in electronics and co
   <li>Node.js</li>
 </ul>
 <hr>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pd7684)](https://github.com/anuraghazra/github-readme-stats)
+
