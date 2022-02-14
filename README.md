@@ -5,7 +5,7 @@ I'm Prashant from India, and currently doing my graduation in electronics and co
 <h2>Skills✍</h2>
 <ul>
   <li>HTML,css(bootstrap)</li>
-  <li>C++,DSA</li>
+  <li>Java,DSA</li>
   <li>8086 Assembly language</li>
   <H3>Currently working on⏳</H3>
    <li>Javascript</li>
