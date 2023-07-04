@@ -15,12 +15,8 @@ I'm Prashant from India, and currently doing my graduation in electronics and co
 <h3>SOCIAL MEDIA HANDLES</h3>
           <h4> <OL><LI> <A href="https://twitter.com/PrashantDarsha7"> Twitter </A> </LI>
             <li> <a href="https://t.co/ZdUKTdcEOy?amp=1"> Linkedin </a></li>
-            <li><a href="https://dev.to/prashantdarsha7"> Blog </a></li>
-  <hr>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pd7684&theme=chartreuse-dark&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pd7684&theme=chartreuse-dark&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" />
-</p>
+            
+ 
 
 
 
